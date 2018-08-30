@@ -1,0 +1,12 @@
+.iconefcard {
+  width: 50px;
+  height: 50px;
+}
+.fcard {
+  background-color: white;
+  height: 170px;
+  width: 200px;
+  border-radius: 15px;
+  padding: 10px;
+  margin: 20px;
+}

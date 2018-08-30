@@ -1,0 +1,30 @@
+.fimg {
+  margin: 5px;
+  border-radius: 10px 10px;
+  font-size: 0.5em;
+  color: black;
+  background-color: white;
+}
+.fimg:hover {
+  box-shadow: 5px 5px 5px grey 0.5;
+}
+
+.butoonVisit {
+  border-radius: 5px 5px;
+  background: #4293db;
+  margin-left: 30px;
+  font-size: 1em;
+  padding: 5px 5px;
+  border: none;
+  margin: 10px;
+}
+.descriptionplace {
+  display: flex;
+  margin-left: 25px;
+}
+.titleplace {
+  margin-bottom: 0px;
+}
+.butoonVisit:hover {
+  background: #5dc6b0;
+}

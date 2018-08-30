@@ -1,0 +1,84 @@
+.iconimage {
+  height: 20px;
+  position: relative;
+  top: -30px;
+}
+.iconPrincipal {
+  position: absolute;
+  right: 50%;
+  width: 40px;
+}
+.iconPrincipal1 {
+  right: 50%;
+  width: 150px;
+  padding: 20px 20px;
+}
+.Title-Doc {
+  margin: 50px;
+  color: #00b39b;
+  font-size: 1.5em;
+  text-align: center;
+}
+.begining {
+  font-family: Helvetica ,  sans-serif;
+  color: #747474;
+  padding-top: 20px;
+  padding-left: 50px;
+  width: 400px;
+
+  }
+.bigining2 {
+  font-family: Helvetica , sans-serif;
+  color: #747474;
+  padding-top: 20px;
+  font-size: 1em;
+  padding-left: 40px;
+  width: 400px;
+}
+.header1 {
+  display: flex;
+    justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.header {
+  display: flex;
+  justify-content: space-around;
+flex-wrap: wrap;
+
+}
+.newzone {
+  background-color: #5dc6b0;
+  opacity: 0.6;
+  width: 100%;
+  border-radius: 15px 15px;
+  display: flex;
+    flex-wrap: wrap;
+    src="https://www.docplanner.com/img/sygnet.png";
+}
+
+.newzoneimage {
+  background-color: #e2f7f4;
+  border-radius: 15px 15px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px;
+  padding: 10px 10px;
+  
+}
+.title2
+{color: rgb(15, 14, 12);¨
+  font-size: 2em;
+
+}
+.mypage{
+  background-color: #e2f7f4;
+  border-radius:3px 
+}
+.mylogo{
+  height: 100px
+}
+selection{
+  color: blue;
+  margin:300px;
+ }
